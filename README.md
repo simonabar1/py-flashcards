@@ -33,6 +33,7 @@ To run the flashcard game on your local machine, follow these steps:
    git clone https://github.com/your-username/flashcard-game.git
 
 2. Install the required dependencies:
+   
  ```shell
    pip install tkinter pandas
 
@@ -40,6 +41,7 @@ To run the flashcard game on your local machine, follow these steps:
   Place the "french_words.csv" file in the "data" directory. This file should contain a list of French words paired with their English translations.
 
 5. Run the application:
+
  ```shell
    python main.py
 
