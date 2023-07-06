@@ -29,23 +29,23 @@ To run the flashcard game on your local machine, follow these steps:
 
 1. Clone the repository:
 
-   ```shell
-   git clone https://github.com/your-username/flashcard-game.git
-   ```
+```shell
+git clone https://github.com/your-username/flashcard-game.git
+```
 
 2. Install the required dependencies:
    
- ```shell
-   pip install tkinter pandas
+```shell
+pip install tkinter pandas
 ```
 
-4. Ensure you have the necessary files:
-  Place the "french_words.csv" file in the "data" directory. This file should contain a list of French words paired with their English translations.
+3. Ensure you have the necessary files:
+Place the "french_words.csv" file in the "data" directory. This file should contain a list of French words paired with their English translations.
 
-5. Run the application:
+4. Run the application:
 
  ```shell
-   python main.py
+python main.py
 ```
 
-7. The flashcard game window will open, displaying a random French word. After a short period, the card will automatically flip to reveal the English translation. Click the "Check" button if you know the word's meaning, or click the "X" button if you don't. The application will continue presenting new flashcards accordingly.
+5. The flashcard game window will open, displaying a random French word. After a short period, the card will automatically flip to reveal the English translation. Click the "Check" button if you know the word's meaning, or click the "X" button if you don't. The application will continue presenting new flashcards accordingly.
