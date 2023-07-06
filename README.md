@@ -1,6 +1,6 @@
 # Flashcard Game
 
-The Flashcard Game is a simple language learning application developed as an intermediate capstone project in the context of a Python Bootcamp. It allows users to practice French vocabulary using a digital flashcard system. The application is built using Python, pandas, and tkinter.
+The Flashcard Game is a simple language learning application developed as an intermediate capstone project in the context of a Python Bootcamp (100 Days of Code: The Complete Python Pro Bootcamp for 2023). It allows users to practice French vocabulary using a digital flashcard system. The application is built using Python, pandas, and tkinter.
 
 ## Description
 
